@@ -1,4 +1,5 @@
 For Linux User 
+
 Clone following repository in your /var/www/html/ folder. 
 
 Create one database called akash_techtic in your phpMyAdmin. 
