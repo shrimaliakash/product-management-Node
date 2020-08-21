@@ -1,7 +1,7 @@
 For Linux User 
 Clone following repository in your /var/www/html/ folder. 
 
-Create one database called nodepost in your phpMyAdmin. 
+Create one database called akash_techtic in your phpMyAdmin. 
 
 open datase/akash_techtic.sql for project derectory annd open that file and select all and copy past in phpmyadmin to create database for that project test api. 
 
@@ -17,7 +17,7 @@ For Windows User
 
 Clone following repository in your /c:/ folder. 
 
-Create one database called nodepost in your phpMyAdmin. 
+Create one database called akash_techtic in your phpMyAdmin. 
 
 open database/akash_techtic.sql for project derectory annd open that file and select all and copy past in phpmyadmin to create database for that project test api. 
 
